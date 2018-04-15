@@ -1,5 +1,8 @@
 # clojure数据结构
 
+clojure最常用的数据结构包括：向量vector、链表list、集合set、映射map,
+以及比较特别的惰性序列lazy-seq。
+
 ## vector
 vector是一种顺序数据结构,比较高效的随机访问。类似于java的ArrayList。
 	
